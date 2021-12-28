@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5861" started-at="2021-12-28T20:51:25Z" finished-at="2021-12-28T20:51:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5861" started-at="2021-12-28T20:51:25Z" finished-at="2021-12-28T20:51:31Z">
+      <class name="testCases.TC_VideoGameAPI">
+        <test-method status="PASS" signature="test_addNewVideoGame()[pri:2, instance:testCases.TC_VideoGameAPI@3ee0fea4]" name="test_addNewVideoGame" duration-ms="3701" started-at="2021-12-28T20:51:25Z" finished-at="2021-12-28T20:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method status="PASS" signature="test_getVideoGame()[pri:3, instance:testCases.TC_VideoGameAPI@3ee0fea4]" name="test_getVideoGame" duration-ms="1938" started-at="2021-12-28T20:51:29Z" finished-at="2021-12-28T20:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method status="PASS" signature="test_updateVideoGame()[pri:4, instance:testCases.TC_VideoGameAPI@3ee0fea4]" name="test_updateVideoGame" duration-ms="100" started-at="2021-12-28T20:51:31Z" finished-at="2021-12-28T20:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVideoGame -->
+        <test-method status="PASS" signature="test_deleteVideoGame()[pri:5, instance:testCases.TC_VideoGameAPI@3ee0fea4]" name="test_deleteVideoGame" duration-ms="59" started-at="2021-12-28T20:51:31Z" finished-at="2021-12-28T20:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideoGame -->
+      </class> <!-- testCases.TC_VideoGameAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
